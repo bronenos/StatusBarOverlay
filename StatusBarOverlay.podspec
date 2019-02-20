@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
   s.author           = { "Fraser Scott-Morrison" => "fraserscottmorrison@me.com" }
 
-  s.ios.deployment_target = "8.0"
+  s.ios.deployment_target = "10.0"
 
   s.swift_version = "4.2"
 
